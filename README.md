@@ -1,13 +1,39 @@
-# README
-## This is the README for your extension "pride-vscode-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Pride VSCode theme 🏳️‍🌈🏳️‍⚧️
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Themes available
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### People of Color inclusive gay flag
 
-**Enjoy!**
+Light mode:
+
+Dark mode:
+
+### Bisexual
+
+Light mode:
+
+Dark mode:
+
+![](./images/bisexual-dark.png)
+
+### Pansexual
+
+Light mode:
+
+Dark mode:
+
+### Asexual
+
+Light mode:
+
+Dark mode:
+
+### Transgender
+
+Light mode:
+
+![](./images/transgender-light.png)
+
+Dark mode:
+
+![](./images/transgender-dark.png)

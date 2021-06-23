@@ -1,20 +1,14 @@
 {
   "name": "transgender",
-  "type": "dark",
+  "type": "light",
   "colors": {
-    "editor.background": "#1e1e1e",
+    "editor.background": "#fff",
     "editor.foreground": "#eeffff",
     "activityBarBadge.background": "#f5a7b7",
-    "sideBarTitle.foreground": "#fff",
-    "activityBar.background": "#202020",
-    "activityBar.foreground": "#5bcef8",
-    "statusBar.background": "#5bcef8",
-    "statusBar.foreground": "#000",
-    "statusBar.noFolderBackground": "#5bcef8",
-    "statusBar.noFolderForeground": "#f5a7b7",
-    "statusBar.debuggingBackground": "#263238",
-    "gitDecoration.modifiedResourceForeground": "#f5a7b7",
-    "gitDecoration.untrackedResourceForeground": "#5bcef8"
+    "sideBarTitle.foreground": "#65737E",
+    "sideBar.background": "#ddf5fe",
+    "activityBar.background": "#fce2e7",
+    "activityBar.foreground": "#000000"
   },
   "tokenColors": [
     {
@@ -29,7 +23,7 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#20b2ff"
       }
     },
     {
@@ -139,7 +133,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#ffd7e0"
+        "foreground": "#f5a7b7"
       }
     },
     {

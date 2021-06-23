@@ -1,20 +1,17 @@
 {
-  "name": "transgender",
-  "type": "dark",
+  "name": "asexual",
+  "type": "light",
   "colors": {
-    "editor.background": "#1e1e1e",
+    "editor.background": "#fff",
     "editor.foreground": "#eeffff",
-    "activityBarBadge.background": "#f5a7b7",
-    "sideBarTitle.foreground": "#fff",
-    "activityBar.background": "#202020",
-    "activityBar.foreground": "#5bcef8",
-    "statusBar.background": "#5bcef8",
-    "statusBar.foreground": "#000",
-    "statusBar.noFolderBackground": "#5bcef8",
-    "statusBar.noFolderForeground": "#f5a7b7",
-    "statusBar.debuggingBackground": "#263238",
-    "gitDecoration.modifiedResourceForeground": "#f5a7b7",
-    "gitDecoration.untrackedResourceForeground": "#5bcef8"
+    "activityBarBadge.background": "#9f299f",
+    "sideBarTitle.foreground": "#000",
+    "sideBar.background": "#bbbbbb",
+    "activityBar.background": "#000",
+    "activityBar.foreground": "#fff",
+    "statusBar.background": "#1A1A1A",
+    "statusBar.noFolderBackground": "#9f299f",
+    "statusBar.debuggingBackground": "#263238"
   },
   "tokenColors": [
     {
@@ -22,14 +19,14 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#d9d8d8"
+        "foreground": "#bbbbbb"
       }
     },
     {
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#000"
       }
     },
     {
@@ -50,7 +47,7 @@
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#f5a7b7"
+        "foreground": "#660266"
       }
     },
     {
@@ -70,7 +67,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#7f7f7f"
       }
     },
     {
@@ -94,14 +91,14 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#5bcef8"
+        "foreground": "#7f7f7f"
       }
     },
     {
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#20b2ff"
+        "foreground": "#b0aeae"
       }
     },
     {
@@ -139,7 +136,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#ffd7e0"
+        "foreground": "#b435b4"
       }
     },
     {
@@ -155,7 +152,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#fff"
+        "foreground": "#7f7f7f"
       }
     },
     {
