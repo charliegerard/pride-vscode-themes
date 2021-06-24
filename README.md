@@ -1,4 +1,4 @@
-# Pride VSCode theme 🏳️‍🌈🏳️‍⚧️
+# Pride VSCode theme 🏳️‍🌈
 
 ## Themes available
 

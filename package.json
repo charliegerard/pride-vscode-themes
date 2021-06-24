@@ -6,8 +6,16 @@
   "engines": {
     "vscode": "^1.57.0"
   },
+  "author": {
+    "name": "Charlie Gerard",
+    "url": "https://charliegerard.dev/"
+  },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "pride",
+    "vscode"
   ],
   "contributes": {
     "themes": [
@@ -45,6 +53,11 @@
         "label": "asexual-light",
         "uiTheme": "vs",
         "path": "./themes/asexual-light-color-theme.json"
+      },
+      {
+        "label": "bisexual-light",
+        "uiTheme": "vs",
+        "path": "./themes/bisexual-light-color-theme.json"
       }
     ]
   }
