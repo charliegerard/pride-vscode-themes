@@ -10,7 +10,7 @@ Dark mode:
 
 ### Bisexual
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bisexual_Pride_Flag.svg/800px-Bisexual_Pride_Flag.svg.png" style="width:100px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bisexual_Pride_Flag.svg/800px-Bisexual_Pride_Flag.svg.png" width="100"/>
 
 Light mode:
 
@@ -22,7 +22,7 @@ Dark mode:
 
 ### Pansexual
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Pansexuality_Pride_Flag.svg/1024px-Pansexuality_Pride_Flag.svg.png" style="width: 100px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Pansexuality_Pride_Flag.svg/1024px-Pansexuality_Pride_Flag.svg.png"  width="100"/>
 
 Light mode:
 
@@ -34,7 +34,7 @@ Dark mode:
 
 ### Asexual
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Asexual_Pride_Flag.svg/2560px-Asexual_Pride_Flag.svg.png" style="width: 100px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Asexual_Pride_Flag.svg/2560px-Asexual_Pride_Flag.svg.png"  width="100"/>
 
 Light mode:
 
@@ -46,7 +46,7 @@ Dark mode:
 
 ### Transgender
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Transgender_Pride_flag.svg/2560px-Transgender_Pride_flag.svg.png" style="width:100px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Transgender_Pride_flag.svg/2560px-Transgender_Pride_flag.svg.png"  width="100"/>
 
 Light mode:
 
