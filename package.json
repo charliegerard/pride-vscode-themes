@@ -63,6 +63,11 @@
         "label": "transgender-light",
         "uiTheme": "vs",
         "path": "./themes/transgender-light-color-theme.json"
+      },
+      {
+        "label": "genderfluid",
+        "uiTheme": "vs-dark",
+        "path": "./themes/genderfluid-color-theme.json"
       }
     ]
   }

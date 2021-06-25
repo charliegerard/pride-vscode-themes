@@ -64,9 +64,13 @@ Dark mode:
 
 ### Genderfluid
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Genderfluidity_Pride-Flag.svg/2560px-Genderfluidity_Pride-Flag.svg.png"  width="100"/>
+
 Light mode:
 
 Dark mode:
+
+![](./images/genderfluid-dark.png)
 
 ### Genderqueer:
 
