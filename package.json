@@ -30,14 +30,29 @@
         "path": "./themes/bisexual-color-theme.json"
       },
       {
+        "label": "bisexual-light",
+        "uiTheme": "vs",
+        "path": "./themes/bisexual-light-color-theme.json"
+      },
+      {
         "label": "pansexual",
         "uiTheme": "vs-dark",
         "path": "./themes/pansexual-color-theme.json"
       },
       {
+        "label": "pansexual-light",
+        "uiTheme": "vs",
+        "path": "./themes/pansexual-light-color-theme.json"
+      },
+      {
         "label": "asexual",
         "uiTheme": "vs-dark",
         "path": "./themes/asexual-color-theme.json"
+      },
+      {
+        "label": "asexual-light",
+        "uiTheme": "vs",
+        "path": "./themes/asexual-light-color-theme.json"
       },
       {
         "label": "transgender",
@@ -48,16 +63,6 @@
         "label": "transgender-light",
         "uiTheme": "vs",
         "path": "./themes/transgender-light-color-theme.json"
-      },
-      {
-        "label": "asexual-light",
-        "uiTheme": "vs",
-        "path": "./themes/asexual-light-color-theme.json"
-      },
-      {
-        "label": "bisexual-light",
-        "uiTheme": "vs",
-        "path": "./themes/bisexual-light-color-theme.json"
       }
     ]
   }

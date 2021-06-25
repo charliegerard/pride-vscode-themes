@@ -12,6 +12,8 @@ Dark mode:
 
 Light mode:
 
+![](./images/bisexual-light.png)
+
 Dark mode:
 
 ![](./images/bisexual-dark.png)
@@ -20,13 +22,21 @@ Dark mode:
 
 Light mode:
 
+![](./images/pansexual-light.png)
+
 Dark mode:
+
+![](./images/pansexual-dark.png)
 
 ### Asexual
 
 Light mode:
 
+![](./images/asexual-light.png)
+
 Dark mode:
+
+![](./images/asexual-dark.png)
 
 ### Transgender
 
