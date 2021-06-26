@@ -29,11 +29,11 @@ Light mode:
 
 Dark mode:
 
-<img src="./images/bisexual-dark.png" width="800"/>
+<img src="./images/bisexual-dark-demo.png" width="800"/>
 
 Light mode:
 
-<img src="./images/bisexual-light.png" width="800"/>
+<img src="./images/bisexual-light-demo.png" width="800"/>
 
 ### Pansexual
 
@@ -41,11 +41,11 @@ Light mode:
 
 Dark mode:
 
-<img src="./images/pansexual-dark.png" width="800"/>
+<img src="./images/pansexual-dark-demo.png" width="800"/>
 
 Light mode:
 
-<img src="./images/pansexual-light.png" width="800"/>
+<img src="./images/pansexual-light-demo.png" width="800"/>
 
 ### Asexual
 
@@ -53,11 +53,11 @@ Light mode:
 
 Dark mode:
 
-<img src="./images/asexual-dark.png" width="800"/>
+<img src="./images/asexual-dark-demo.png" width="800"/>
 
 Light mode:
 
-<img src="./images/asexual-light.png" width="800"/>
+<img src="./images/asexual-light-demo.png" width="800"/>
 
 ### Transgender
 
@@ -65,11 +65,11 @@ Light mode:
 
 Dark mode:
 
-<img src="./images/transgender-dark.png" width="800"/>
+<img src="./images/transgender-dark-demo.png" width="800"/>
 
 Light mode:
 
-<img src="./images/transgender-light.png" width="800"/>
+<img src="./images/transgender-light-demo.png" width="800"/>
 
 ### Agender
 
@@ -77,7 +77,7 @@ Light mode:
 
 Dark mode:
 
-<img src="./images/agender.png" width="800"/>
+<img src="./images/agender-dark-demo.png" width="800"/>
 
 ### Genderfluid
 
@@ -85,11 +85,11 @@ Dark mode:
 
 Dark mode:
 
-<img src="./images/genderfluid-dark.png" width="800"/>
+<img src="./images/genderfluid-dark-demo.png" width="800"/>
 
 Light mode:
 
-<img src="./images/genderfluid-light.png" width="800"/>
+<img src="./images/genderfluid-light-demo.png" width="800"/>
 
 ### Genderqueer:
 
@@ -97,11 +97,11 @@ Light mode:
 
 Dark mode:
 
-<img src="./images/genderqueer.png" width="800"/>
+<img src="./images/genderqueer-dark-demo.png" width="800"/>
 
 Light mode:
 
-<img src="./images/genderqueer-light.png" width="800"/>
+<img src="./images/genderqueer-light-demo.png" width="800"/>
 
 ### Non-binary:
 
@@ -109,11 +109,11 @@ Light mode:
 
 Dark mode:
 
-<img src="./images/non-binary.png" width="800"/>
+<img src="./images/non-binary-dark-demo.png" width="800"/>
 
 Light mode:
 
-<img src="./images/non-binary-light.png" width="800"/>
+<img src="./images/non-binary-light-demo.png" width="800"/>
 
 ### Polysexual:
 
@@ -121,4 +121,4 @@ Light mode:
 
 Dark mode:
 
-<img src="./images/polysexual.png" width="800"/>
+<img src="./images/polysexual-dark-demo.png" width="800"/>

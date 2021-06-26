@@ -17,7 +17,7 @@
     "gitDecoration.untrackedResourceForeground": "#528cff",
     "list.errorForeground": "#d6006f",
     "list.warningForeground": "#2b71ff",
-    "editorLineNumber.foreground": "#2b71ff"
+    "editorLineNumber.foreground": "#bc84f2"
   },
   "tokenColors": [
     {
@@ -73,7 +73,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#bc84f2"
       }
     },
     {
@@ -84,7 +84,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#f759aa"
+        "foreground": "#bc84f2"
       }
     },
     {
@@ -127,7 +127,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#ffbade"
+        "foreground": "#bc84f2"
       }
     },
     {

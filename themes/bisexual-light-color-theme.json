@@ -17,7 +17,7 @@
     "gitDecoration.untrackedResourceForeground": "#2b71ff",
     "list.errorForeground": "#d6006f",
     "list.warningForeground": "#2b71ff",
-    "editorLineNumber.foreground": "#d6006f"
+    "editorLineNumber.foreground": "#bc84f2"
   },
   "tokenColors": [
     {
@@ -73,7 +73,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#1da3d8"
+        "foreground": "#bc84f2"
       }
     },
     {
