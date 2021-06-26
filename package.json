@@ -3,7 +3,7 @@
   "displayName": "Pride VScode themes 🏳️‍🌈",
   "description": "Pride-inspired VSCode themes",
   "publisher": "CharlieGerard",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.57.0"
   },
