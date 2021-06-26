@@ -1,6 +1,6 @@
 {
-  "name": "pride-vscode-theme",
-  "displayName": "pride-vscode-theme",
+  "name": "pride-vscode-themes",
+  "displayName": "pride-vscode-themes",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -20,79 +20,89 @@
   "contributes": {
     "themes": [
       {
-        "label": "pride",
+        "label": "Pride",
         "uiTheme": "vs-dark",
         "path": "./themes/pride-color-theme.json"
       },
       {
-        "label": "bisexual",
+        "label": "Bisexual (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/bisexual-color-theme.json"
       },
       {
-        "label": "bisexual-light",
+        "label": "Bisexual (Light)",
         "uiTheme": "vs",
         "path": "./themes/bisexual-light-color-theme.json"
       },
       {
-        "label": "pansexual",
+        "label": "Pansexual (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/pansexual-color-theme.json"
       },
       {
-        "label": "pansexual-light",
+        "label": "Pansexual (Light)",
         "uiTheme": "vs",
         "path": "./themes/pansexual-light-color-theme.json"
       },
       {
-        "label": "asexual",
+        "label": "Asexual (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/asexual-color-theme.json"
       },
       {
-        "label": "asexual-light",
+        "label": "Asexual (Light)",
         "uiTheme": "vs",
         "path": "./themes/asexual-light-color-theme.json"
       },
       {
-        "label": "transgender",
+        "label": "Transgender (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/transgender-color-theme.json"
       },
       {
-        "label": "transgender-light",
+        "label": "Transgender (Light)",
         "uiTheme": "vs",
         "path": "./themes/transgender-light-color-theme.json"
       },
       {
-        "label": "genderfluid",
+        "label": "Genderfluid (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/genderfluid-color-theme.json"
       },
       {
-        "label": "genderfluid-light",
+        "label": "Genderfluid (Light)",
         "uiTheme": "vs",
         "path": "./themes/genderfluid-light-color-theme.json"
       },
       {
-        "label": "genderqueer",
+        "label": "Genderqueer (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/genderqueer-color-theme.json"
       },
       {
-        "label": "genderqueer-light",
+        "label": "Genderqueer (Light)",
         "uiTheme": "vs",
         "path": "./themes/genderqueer-light-color-theme.json"
       },
       {
-        "label": "non-binary",
+        "label": "Non-binary (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/non-binary-color-theme.json"
       },
       {
-        "label": "non-binary-light",
+        "label": "Non-binary (Light)",
         "uiTheme": "vs",
         "path": "./themes/non-binary-light-color-theme.json"
+      },
+      {
+        "label": "Polysexual (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/polysexual-color-theme.json"
+      },
+      {
+        "label": "Agender (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/agender-color-theme.json"
       }
     ]
   }

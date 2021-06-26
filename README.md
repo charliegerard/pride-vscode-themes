@@ -1,21 +1,27 @@
-# Pride VSCode theme 🏳️‍🌈
+# Pride VSCode themes 🏳️‍🌈
 
 ## Themes available
+
+_Not all genders and sexualities of the queer spectrum are represented here, only the ones I've had the time to make. Feel free to contribute to this repo if you'd like to add/modify a theme!_
 
 - [Inclusive Pride flag](#inclusive-gay-flag)
 - [Bisexual](#bisexual)
 - [Pansexual](#pansexual)
 - [Asexual](#asexual)
 - [Transgender](#transgender)
+- [Agender](#agender)
 - [Genderfluid](#genderfluid)
 - [Genderqueer](#genderqueer)
 - [Non-binary](#non-binary)
+- [Polysexual](#polysexual)
 
-### Inclusive gay flag
+### Inclusive pride flag
 
-Light mode:
+<img src="https://static.dezeen.com/uploads/2018/06/lgbt-pride-flag-redesign-hero.jpg" width="100">
 
 Dark mode:
+
+Light mode:
 
 ### Bisexual
 
@@ -23,11 +29,11 @@ Dark mode:
 
 Dark mode:
 
-<img src="./images/bisexual-dark.png" width="300"/>
+<img src="./images/bisexual-dark.png" width="800"/>
 
 Light mode:
 
-<img src="./images/bisexual-light.png" width="300"/>
+<img src="./images/bisexual-light.png" width="800"/>
 
 ### Pansexual
 
@@ -35,11 +41,11 @@ Light mode:
 
 Dark mode:
 
-<img src="./images/pansexual-dark.png" width="300"/>
+<img src="./images/pansexual-dark.png" width="800"/>
 
 Light mode:
 
-<img src="./images/pansexual-light.png" width="300"/>
+<img src="./images/pansexual-light.png" width="800"/>
 
 ### Asexual
 
@@ -47,11 +53,11 @@ Light mode:
 
 Dark mode:
 
-<img src="./images/asexual-dark.png" width="300"/>
+<img src="./images/asexual-dark.png" width="800"/>
 
 Light mode:
 
-<img src="./images/asexual-light.png" width="300"/>
+<img src="./images/asexual-light.png" width="800"/>
 
 ### Transgender
 
@@ -59,17 +65,19 @@ Light mode:
 
 Dark mode:
 
-<img src="./images/transgender-dark.png" width="300"/>
+<img src="./images/transgender-dark.png" width="800"/>
 
 Light mode:
 
-<img src="./images/transgender-light.png" width="300"/>
+<img src="./images/transgender-light.png" width="800"/>
 
 ### Agender
 
-Light mode:
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Agender_pride_flag.svg/2560px-Agender_pride_flag.svg.png" width="100">
 
 Dark mode:
+
+<img src="./images/agender.png" width="800"/>
 
 ### Genderfluid
 
@@ -77,11 +85,11 @@ Dark mode:
 
 Dark mode:
 
-<img src="./images/genderfluid-dark.png" width="300"/>
+<img src="./images/genderfluid-dark.png" width="800"/>
 
 Light mode:
 
-<img src="./images/genderfluid-light.png" width="300"/>
+<img src="./images/genderfluid-light.png" width="800"/>
 
 ### Genderqueer:
 
@@ -89,11 +97,11 @@ Light mode:
 
 Dark mode:
 
-<img src="./images/genderqueer.png" width="300"/>
+<img src="./images/genderqueer.png" width="800"/>
 
 Light mode:
 
-<img src="./images/genderqueer-light.png" width="300"/>
+<img src="./images/genderqueer-light.png" width="800"/>
 
 ### Non-binary:
 
@@ -101,14 +109,16 @@ Light mode:
 
 Dark mode:
 
-<img src="./images/non-binary.png" width="300"/>
+<img src="./images/non-binary.png" width="800"/>
 
 Light mode:
 
-<img src="./images/non-binary-light.png" width="300"/>
+<img src="./images/non-binary-light.png" width="800"/>
 
 ### Polysexual:
 
-Light mode:
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Polysexuality_Pride_Flag.svg/1280px-Polysexuality_Pride_Flag.svg.png" width="100">
 
 Dark mode:
+
+<img src="./images/polysexual.png" width="800"/>
