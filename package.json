@@ -1,10 +1,16 @@
 {
   "name": "pride-vscode-themes",
-  "displayName": "pride-vscode-themes",
-  "description": "",
+  "displayName": "Pride VScode themes 🏳️‍🌈",
+  "description": "Pride-inspired VSCode themes",
+  "publisher": "CharlieGerard",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.57.0"
+  },
+  "icon": "icon.jpeg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charliegerard/pride-vscode-themes"
   },
   "author": {
     "name": "Charlie Gerard",
