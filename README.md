@@ -68,21 +68,35 @@ Dark mode:
 
 Light mode:
 
+![](./images/genderfluid-light.png)
+
 Dark mode:
 
 ![](./images/genderfluid-dark.png)
 
 ### Genderqueer:
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Genderqueer_pride_flag.png"  width="100"/>
+
 Light mode:
 
+![](./images/genderqueer-light.png)
+
 Dark mode:
+
+![](./images/genderqueer.png)
 
 ### Non-binary:
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nonbinary_flag.svg/1200px-Nonbinary_flag.svg.png" width="100'>
+
 Light mode:
 
+![](./images/non-binary-light.png)
+
 Dark mode:
+
+![](./images/non-binary.png)
 
 ### Polysexual:
 

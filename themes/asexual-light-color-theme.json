@@ -15,7 +15,8 @@
     "gitDecoration.modifiedResourceForeground": "#9f299f",
     "gitDecoration.untrackedResourceForeground": "#bbbbbb",
     "list.errorForeground": "#9f299f",
-    "list.warningForeground": "#aeb9b9"
+    "list.warningForeground": "#aeb9b9",
+    "editorLineNumber.foreground": "#9f299f"
   },
   "tokenColors": [
     {

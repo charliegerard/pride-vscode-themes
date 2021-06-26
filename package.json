@@ -68,6 +68,31 @@
         "label": "genderfluid",
         "uiTheme": "vs-dark",
         "path": "./themes/genderfluid-color-theme.json"
+      },
+      {
+        "label": "genderfluid-light",
+        "uiTheme": "vs",
+        "path": "./themes/genderfluid-light-color-theme.json"
+      },
+      {
+        "label": "genderqueer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/genderqueer-color-theme.json"
+      },
+      {
+        "label": "genderqueer-light",
+        "uiTheme": "vs",
+        "path": "./themes/genderqueer-light-color-theme.json"
+      },
+      {
+        "label": "non-binary",
+        "uiTheme": "vs-dark",
+        "path": "./themes/non-binary-color-theme.json"
+      },
+      {
+        "label": "non-binary-light",
+        "uiTheme": "vs",
+        "path": "./themes/non-binary-light-color-theme.json"
       }
     ]
   }
