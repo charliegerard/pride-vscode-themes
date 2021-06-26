@@ -4,7 +4,6 @@
 
 _Not all genders and sexualities of the queer spectrum are represented here, only the ones I've had the time to make. Feel free to contribute to this repo if you'd like to add/modify a theme!_
 
-- [Inclusive Pride flag](#inclusive-gay-flag)
 - [Bisexual](#bisexual)
 - [Pansexual](#pansexual)
 - [Asexual](#asexual)
@@ -14,14 +13,6 @@ _Not all genders and sexualities of the queer spectrum are represented here, onl
 - [Genderqueer](#genderqueer)
 - [Non-binary](#non-binary)
 - [Polysexual](#polysexual)
-
-### Inclusive pride flag
-
-<img src="https://static.dezeen.com/uploads/2018/06/lgbt-pride-flag-redesign-hero.jpg" width="100">
-
-Dark mode:
-
-Light mode:
 
 ## Bisexual
 

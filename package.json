@@ -20,11 +20,6 @@
   "contributes": {
     "themes": [
       {
-        "label": "Pride",
-        "uiTheme": "vs-dark",
-        "path": "./themes/pride-color-theme.json"
-      },
-      {
         "label": "Bisexual (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/bisexual-color-theme.json"
