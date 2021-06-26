@@ -20,11 +20,11 @@ _Not all genders and sexualities of the queer spectrum are represented here, onl
 
 Dark mode:
 
-<img src="images/bisexual-dark-demo.png" width="800"/>
+<img src="https://res.cloudinary.com/devdevcharlie/image/upload/v1624719684/bisexual-dark-demo_bu1oxg.png" width="800"/>
 
 Light mode:
 
-<img src="images/bisexual-light-demo.png" width="800"/>
+<img src="https://res.cloudinary.com/devdevcharlie/image/upload/v1624719670/bisexual-light-demo_vqdsin.png" width="800"/>
 
 ## Pansexual
 
@@ -32,11 +32,11 @@ Light mode:
 
 Dark mode:
 
-<img src="images/pansexual-dark-demo.png" width="800"/>
+<img src="https://res.cloudinary.com/devdevcharlie/image/upload/v1624719673/pansexual-dark-demo_npghqy.png" width="800"/>
 
 Light mode:
 
-<img src="images/pansexual-light-demo.png" width="800"/>
+<img src="https://res.cloudinary.com/devdevcharlie/image/upload/v1624719676/pansexual-light-demo_ch58cs.png" width="800"/>
 
 ## Asexual
 
@@ -44,11 +44,11 @@ Light mode:
 
 Dark mode:
 
-<img src="images/asexual-dark-demo.png" width="800"/>
+<img src="https://res.cloudinary.com/devdevcharlie/image/upload/v1624719654/asexual-dark-demo_hf4fnq.png" width="800"/>
 
 Light mode:
 
-<img src="images/asexual-light-demo.png" width="800"/>
+<img src="https://res.cloudinary.com/devdevcharlie/image/upload/v1624719674/asexual-light-demo_xl4rvr.png" width="800"/>
 
 ## Transgender
 
@@ -56,11 +56,11 @@ Light mode:
 
 Dark mode:
 
-<img src="images/transgender-dark-demo.png" width="800"/>
+<img src="https://res.cloudinary.com/devdevcharlie/image/upload/v1624719693/transgender-dark-demo_nqr9rd.png" width="800"/>
 
 Light mode:
 
-<img src="images/transgender-light-demo.png" width="800"/>
+<img src="https://res.cloudinary.com/devdevcharlie/image/upload/v1624719681/transgender-light-demo_bggxie.png" width="800"/>
 
 ## Agender
 
@@ -68,7 +68,7 @@ Light mode:
 
 Dark mode:
 
-<img src="images/agender-dark-demo.png" width="800"/>
+<img src="https://res.cloudinary.com/devdevcharlie/image/upload/v1624719673/agender-dark-demo_epzkbm.png" width="800"/>
 
 ## Genderfluid
 
@@ -76,11 +76,11 @@ Dark mode:
 
 Dark mode:
 
-<img src="images/genderfluid-dark-demo.png" width="800"/>
+<img src="https://res.cloudinary.com/devdevcharlie/image/upload/v1624719660/genderfluid-dark-demo_e5cabg.png" width="800"/>
 
 Light mode:
 
-<img src="images/genderfluid-light-demo.png" width="800"/>
+<img src="https://res.cloudinary.com/devdevcharlie/image/upload/v1624719689/genderfluid-light-demo_wjdqvu.png" width="800"/>
 
 ## Genderqueer:
 
@@ -88,11 +88,11 @@ Light mode:
 
 Dark mode:
 
-<img src="images/genderqueer-dark-demo.png" width="800"/>
+<img src="https://res.cloudinary.com/devdevcharlie/image/upload/v1624719663/genderqueer-dark-demo_dfzgxi.png" width="800"/>
 
 Light mode:
 
-<img src="images/genderqueer-light-demo.png" width="800"/>
+<img src="https://res.cloudinary.com/devdevcharlie/image/upload/v1624719670/genderqueer-light-demo_nawpoq.png" width="800"/>
 
 ## Non-binary:
 
@@ -100,11 +100,11 @@ Light mode:
 
 Dark mode:
 
-<img src="images/non-binary-dark-demo.png" width="800"/>
+<img src="https://res.cloudinary.com/devdevcharlie/image/upload/v1624719667/non-binary-dark-demo_zbgcs8.png" width="800"/>
 
 Light mode:
 
-<img src="images/non-binary-light-demo.png" width="800"/>
+<img src="https://res.cloudinary.com/devdevcharlie/image/upload/v1624719691/non-binary-light-demo_ewija7.png" width="800"/>
 
 ## Polysexual:
 
@@ -112,4 +112,4 @@ Light mode:
 
 Dark mode:
 
-<img src="images/polysexual-dark-demo.png" width="800"/>
+<img src="https://res.cloudinary.com/devdevcharlie/image/upload/v1624719679/polysexual-dark-demo_e3seja.png" width="800"/>
